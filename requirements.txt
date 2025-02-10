@@ -1,0 +1,6 @@
+streamlit==1.30.0
+transformers==4.37.2
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+torch==2.1.2
+protobuf==4.25.3
